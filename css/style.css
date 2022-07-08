@@ -324,7 +324,7 @@ img{
     
     .home__container{
         justify-content: initial;
-        column-gap: 4.5rem;
+        column-gap: 1.5rem;
     }
 
     .home__img{
