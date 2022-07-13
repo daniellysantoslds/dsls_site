@@ -15,7 +15,7 @@
     --body-font: 'Poppins', sans-serif;
     
     
-    --logo--font-size: 1rem;
+    --logo--font-size: 1.25rem;
     --title--font--size: 1.5rem;
     --about--font-size: 1rem;
     --description--font-size: 0.875rem;
@@ -350,3 +350,15 @@ img{
 @media all and (max-width: 768px) {
     .home__data { text-align: center; }
 }
+
+.nav__toggle{
+    padding-top: 16px;
+    font-size: 30px;
+}
+
+.nav__close{
+    font-size: 30px;
+}
+
+
+
