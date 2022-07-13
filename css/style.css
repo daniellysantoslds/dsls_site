@@ -255,7 +255,7 @@ img{
 
 
 .home__button:hover {
-    background-color: #623BBC;
+    background-color: var(--purple);
     color: white;
   } 
 
