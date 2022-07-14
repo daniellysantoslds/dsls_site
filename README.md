@@ -18,7 +18,6 @@ This is a web application written in HTML, CSS and JavaScript.
 <h2>Deployment</h2>
 
 
-<a href="https://dsls-site-daniellysantoslds.vercel.app/" rel="external" >dsls-site.vercel.app
+It is deployed on Vercel. Can be accessed through the link <a href="https://dsls-site-daniellysantoslds.vercel.app/" rel="external" >dsls-site.vercel.app
 </a>
 
-It is deployed on Vercel. Can be accessed through the link https://vsmo.me/.
