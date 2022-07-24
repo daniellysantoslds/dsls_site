@@ -10,7 +10,7 @@ Criacão de um personal website
 
 
 <h2>Desenvolvimento</h2>
-<p>Ele é implantado em Vercel. Pode ser acessado através do link  <a href="https://dsls-site-daniellysantoslds.vercel.app/" rel="external" >dsls-site.vercel.app
+<p>Ele é implantado em Vercel. Pode ser acessado através do link  <a href="https://dsls-site.vercel.app/" rel="external" >dsls-site.vercel.app
 </a>
 </p>
 
